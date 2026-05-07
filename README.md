@@ -1,2 +1,2 @@
 # cicd-2ccok
-Aprendendi CI/CD na prática
+Aprendendo CI/CD na prática
